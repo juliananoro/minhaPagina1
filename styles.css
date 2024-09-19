@@ -1,0 +1,13 @@
+.form-container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.confirmation-message {
+    display: none;
+    margin-top: 20px;
+}
+
+.maxContainer {
+    max-width: 600px;
+}
